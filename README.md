@@ -46,3 +46,5 @@ DBFS_OUTPUT_ROOT = './dbfs/dolly_training'
 # =====================SETTING=====================
 ```
 
+数据集遵循原始协议 CC-BY-SA。
+Dataset follows the original CC-BY-SA license.
